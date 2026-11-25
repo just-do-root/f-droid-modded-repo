@@ -1,19 +1,9 @@
+AuthorName: ''
 Categories:
-  - Internet
-License: GPL-3.0-only
-AuthorEmail: idont-want-to-say
-AuthorWebSite: https://github.com/just-do-root/
-WebSite: https://github.com/fdroid/fdroidclient
-SourceCode: https://github.com/just-do-root/fdroid-mod-for-root-and-privileged
-IssueTracker: https://github.com/just-do-root/fdroid-mod-for-root-and-privileged/issues
-
-AutoName: F-Droid Modded
-
-Summary: >
-  F-Droid Client Mod for Root & Privileged
-
-Description: >
-  A modified F-Droid Client for support F-Droid-Privileged-Extension, root, microG companion, youre own app for install, shizuku, dhizuku and the standard Installation.
-
-CurrentVersion: idk
-CurrentVersionCode: idk
+- f-droid-modded-repo
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: F-Droid
+SourceCode: ''
+Summary: ''
+WebSite: ''
