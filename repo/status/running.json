@@ -2,17 +2,25 @@
   "/etc/issue.net": "Ubuntu 26.04.1 LTS",
   "commandLine": [
     "/usr/bin/fdroid update",
-    "--create-metadata",
-    "--delete-unknown"
+    "--create-metadata"
   ],
   "fdroiddata": {
-    "commitId": "a21cce87e0cf4406de8fe73af3173133d4be00bd",
-    "isDirty": false,
-    "modifiedFiles": [],
-    "untrackedFiles": [
-      ".gitignore"
-    ]
+    "commitId": "7bd3c5220a85dee65b819c5ebc18e1367af444e6",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/entry.jar",
+      "repo/entry.json",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index-v2.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml"
+    ],
+    "untrackedFiles": []
   },
-  "startTimestamp": 1795614967000,
+  "startTimestamp": 1795615567000,
   "subcommand": "update"
 }
